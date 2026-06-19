@@ -14,4 +14,4 @@ dependencies:
 - h5py =3.16.0
 - pip
 - pip:
-  - https://github.com/pyiron/executorlib.git@fix/init-function-mpi-parallel-block-allocation
+  - git+https://github.com/pyiron/executorlib.git@fix/init-function-mpi-parallel-block-allocation
