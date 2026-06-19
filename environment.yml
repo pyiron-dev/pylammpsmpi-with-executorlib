@@ -7,9 +7,9 @@ dependencies:
 - pyzmq =27.1.0
 - flux-core =0.85.0
 - iprpy-data =2025.01.14
-- lammps =2025.07.22=*openmpi*
+- lammps =2024.08.29=*openmpi*
 - lammpsparser =0.0.5
-- pylammpsmpi =0.4.1
+- pylammpsmpi =0.3.13
 - pysqa =0.4.2
 - h5py =3.16.0
 - pip
