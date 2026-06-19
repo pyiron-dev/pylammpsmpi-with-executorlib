@@ -5,7 +5,7 @@ dependencies:
 - atomistics =0.3.7
 - cloudpickle =3.1.2
 - pyzmq =27.1.0
-- flux-core =0.78.0
+- flux-core =0.85.0
 - flux-pmix =0.6.0
 - iprpy-data =2025.01.14
 - lammps =2025.07.22=*openmpi*
