@@ -3,7 +3,7 @@ channels:
 dependencies:
 - python
 - atomistics =0.3.7
-- executorlib =1.9.4
+- executorlib =1.9.3
 - flux-core =0.78.0
 - flux-pmix =0.6.0
 - iprpy-data =2025.01.14
