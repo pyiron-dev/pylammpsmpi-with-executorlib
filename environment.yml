@@ -3,8 +3,7 @@ channels:
 dependencies:
 - python
 - atomistics =0.3.7
-- cloudpickle =3.1.2
-- pyzmq =27.1.0
+- executorlib =1.9.3
 - flux-core =0.84.0
 - flux-pmix =0.6.0
 - iprpy-data =2025.01.14
@@ -13,6 +12,3 @@ dependencies:
 - pylammpsmpi =0.4.1
 - pysqa =0.4.2
 - h5py =3.16.0
-- pip
-- pip:
-  - git+https://github.com/pyiron/executorlib.git@fix/init-function-mpi-parallel-block-allocation
